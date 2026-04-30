@@ -21,7 +21,7 @@
 ### Eirene
 - AI-based mental wellbeing companion
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omar-abftah&show_icons=true)
 ## 📫 Contact Me
 - LinkedIn: www.linkedin.com/in/omar-ahmed-abd-el-fatah-678193187
 - Email: omarahmedgabrahmed111@gmail.com
