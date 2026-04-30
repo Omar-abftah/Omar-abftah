@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Omar
 
-<!--
-**Omar-abftah/Omar-abftah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student at Cairo University  
+🤖 Interested in AI, backend development, and system design  
+🌱 Currently improving my C# and AI skills  
+🧠 About Me
+## 🧠 About Me
+- 🎓 Faculty of Computer & Artificial Intelligence, Cairo University
+- 💡 Passionate about problem solving and AI systems
+- 🛠️ Worked with: C++, C#, Python, Java, Prolog
+- 📌 Built projects like Gomoku AI, Carebot, and graphics systems
+⚙️ Tech Stack
+## ⚙️ Tech Stack
+- Languages: Python, C++, C#, Java
+- AI: basic ML concepts, LLMs
+- Tools: Git, Github, Linux, Docker
+## 🚀 Projects
 
-Here are some ideas to get you started:
+### Carebot
+- Pharmacies ERP System
+### Eirene
+- AI-based mental wellbeing companion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+## 📫 Contact Me
+- LinkedIn: www.linkedin.com/in/omar-ahmed-abd-el-fatah-678193187
+- Email: omarahmedgabrahmed111@gmail.com
