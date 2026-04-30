@@ -3,13 +3,11 @@
 💻 Computer Science student at Cairo University  
 🤖 Interested in AI, backend development, and system design  
 🌱 Currently improving my C# and AI skills  
-🧠 About Me
 ## 🧠 About Me
 - 🎓 Faculty of Computer & Artificial Intelligence, Cairo University
 - 💡 Passionate about problem solving and AI systems
 - 🛠️ Worked with: C++, C#, Python, Java, Prolog
 - 📌 Built projects like Gomoku AI, Carebot, and graphics systems
-⚙️ Tech Stack
 ## ⚙️ Tech Stack
 - Languages: Python, C++, C#, Java
 - AI: basic ML concepts, LLMs
