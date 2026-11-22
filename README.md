@@ -1,18 +1,39 @@
-# 💫 About Me:
-🌍  I'm based in Cairo, Egypt<br>✉️  You can contact me at omarahmedgabrahmed111@gmail.com<br>🧠  I'm learning System Design and Architecture
+# Hi, I'm Omar 👋
 
+Backend developer from Cairo, Egypt. I graduated in Computer Science from Cairo University (July 2026) and build backend systems in **C#/.NET** first, **Python** second, and **Java** when the job calls for it.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omar-ahmed-abd-el-fatah-678193187/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarahmedgabrahmed111@gmail.com) 
+[Portfolio](https://omarabftah.dev) · [LinkedIn](https://linkedin.com/in/omarabftah) · [Email](mailto:om.abfta7@gmail.com)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Omar-abftah&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Omar-abftah&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Omar-abftah&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## What I work with
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+| | |
+|---|---|
+| **Languages** | C#, Python, Java, SQL |
+| **Backend** | ASP.NET Core, EF Core, FastAPI, Spring Boot, SignalR, Hangfire |
+| **Architecture** | Clean Architecture, CQRS/MediatR, modular monoliths, REST, JWT auth |
+| **Data** | PostgreSQL, SQLite, MongoDB, Redis |
+| **Tooling** | Docker, Git, Railway, Render |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Projects
+
+**Eirene** — AI-powered mental wellness platform (graduation project). I was the sole backend architect on a team of five: .NET 9, Clean Architecture/CQRS, PostgreSQL, Redis, SignalR, a doctor verification workflow with admin audit trail, and a FastAPI service wrapping a fine-tuned LLM. *(Private repo.)*
+
+**[Task-Management-API](https://github.com/Omar-abftah/Task-Management-API)** — REST API on .NET 10 Minimal APIs and EF Core. Modular monolith, JWT auth, soft deletes, unit and integration tests, Docker Compose, Bruno and Postman collections.
+
+**[URLShortner](https://github.com/Omar-abftah/URLShortner)** — FastAPI + MongoDB (Beanie) URL shortener with Redis caching, rate limiting, Clerk auth and a Vite frontend. *(In progress.)*
+
+**[PrintStamp](https://github.com/Omar-abftah/PrintStamp)** — C#/.NET 10 and Avalonia desktop app that intercepts print jobs, stamps a barcode on every page, and lets a separate admin app look records up by scan. *(In progress.)*
+
+**[Material-Stream-Identification-System](https://github.com/Omar-abftah/Material-Stream-Identification-System)** — Python classifier that sorts waste images into six material classes (glass, paper, cardboard, plastic, metal, trash) with SVM and k-NN, plus real-time camera apps.
+
+Older university work is in my repos too: CPU scheduling simulators, data compression algorithms, a parking system simulator and a library website.
+
+## Professional experience
+
+- **Freelance Software Engineer**, Appyinnovate (remote) — Sep 2026 to Nov 2026
+- **Backend Developer Intern**, El Leithy Auto Group — Jun to Sep 2025 (Laravel/PHP/MySQL)
+- **Freelance backend developer**, Carebot pharmacy ERP — Sep to Oct 2025
+
+## Currently
+
+Deepening my .NET backend fundamentals (concurrency, data modeling, API reliability, testing), with LLM-integrated backends as the next layer.
